@@ -2,7 +2,7 @@
 
 Senior QA / SDET with experience in:
 - API automation (Postman, Newman)
-- Guidewire PolicyCenter / BillingCenter
+- Guidewire PolicyCenter / BillingCenter / ClaimCenter
 - Mock-driven testing strategies
 - CI/CD with GitHub Actions & Docker
 - AI-assisted test analysis (local LLMs)
