@@ -15,3 +15,7 @@ Senior QA / SDET with experience in:
 
 📘 Featured project:
 ➡️ AI-Assisted API Testing with Postman & Guidewire
+
+
+📘 **Full documentation available in the Wiki**  
+➡️ https://github.com/Hal9000-Discovery/<repo>/wiki
