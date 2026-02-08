@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi, I'm Dave
 
-<!--
-**Hal9000-Discovery/Hal9000-Discovery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior QA / SDET with experience in:
+- API automation (Postman, Newman)
+- Guidewire PolicyCenter / BillingCenter
+- Mock-driven testing strategies
+- CI/CD with GitHub Actions & Docker
+- AI-assisted test analysis (local LLMs)
 
-Here are some ideas to get you started:
+🔹 Current focus: building deterministic API test frameworks enhanced with local AI for analysis (not CI gating).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📘 Featured project:
+➡️ AI-Assisted API Testing with Postman & Guidewire
