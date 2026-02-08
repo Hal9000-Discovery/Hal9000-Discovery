@@ -11,6 +11,7 @@ Senior QA / SDET with experience in:
 
 🔹 “The framework is designed to support both PolicyCenter and ClaimCenter APIs using the same mock-driven, CI-friendly testing approach.”
 
+🔹 “While the current focus is PolicyCenter, the same patterns apply to ClaimCenter and other Guidewire applications.”
 
 📘 Featured project:
 ➡️ AI-Assisted API Testing with Postman & Guidewire
